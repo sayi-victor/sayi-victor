@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sayi-victor
-- 👀 I’m interested in becoming a full stack web developer
-- 🌱 I’m currently learning Laravel 
+- 👀 I’m a full stack web developer
 - 💞️ I’m looking to collaborate on web development projects 
 - 📫 How to reach me vctsayi@gmail.com 
 
